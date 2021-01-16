@@ -7,12 +7,12 @@ export const defaultTheme: Theme = {
     name: "defaultTheme",
     properties: {
         "--body-bg-color": "#fff",
-        "--title-color": "red",
+        "--title-color": "orange",
         "--button-bg-color": "#fff",
-        "--button-border-color": "red",
-        "--button-text-color": "red",
+        "--button-border-color": "orange",
+        "--button-text-color": "orange",
         "--magic-box-bg-color": "#ffffff",
-        "--magic-box-text-color": "red"
+        "--magic-box-text-color": "orange"
     }
 };
 
